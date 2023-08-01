@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     @IBOutlet var myButton: UIButton!
     
+    @IBOutlet var mySlider: UISlider!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
